@@ -16,7 +16,6 @@
   <img src="./assets/banner.png" alt="Coding banner" width="100%" />
 </p>
 
-
 ---
 
 ## 🔧 Tech stack
@@ -47,8 +46,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?Alirezza1375=Alirezza1375&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Alirezza1375=Alirezza1375&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
