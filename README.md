@@ -14,9 +14,9 @@
 ---
 
 <p align="center">
-  <!-- Banner (optional) -->
-  <img src="./assets/banner.png" alt="banner" width="100%" />
+  <img src="./assets/banner/banner.png" alt="Coding banner" width="100%" />
 </p>
+
 ---
 
 ## 🔧 Tech stack
