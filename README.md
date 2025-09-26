@@ -55,7 +55,7 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/alireza-g-broujerdi"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge" alt="Portfolio"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-c0392b?style=for-the-badge" alt="Email"></a>
+  <a href="alirezagoudarzi1375@gmail.com"><img src="https://img.shields.io/badge/-Email-c0392b?style=for-the-badge" alt="Email"></a>
 </p>
