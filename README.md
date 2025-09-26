@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Coding banner" width="100%" />
+  <img src="./assets/banner.png" alt="Coding banner"  width="100%" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🔧 Tech stack
 
 <p align="center">
-  <!-- badges: replace yourusername if necessary -->
+  <!-- badges: replace Alirezza1375 if necessary -->
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
@@ -35,9 +35,9 @@
 
 ## 🌟 Featured projects
 
-- **[Beat_Lab](https://github.com/yourusername/beat_lab)** — learning + creating drum beats (React, Tailwind).
-- **[Beat Machine (edit)](https://github.com/yourusername/beat-machine)** — sequencer component (React).
-- **[Flask Auth](https://github.com/yourusername/auth-system)** — Flask + SQLAlchemy authentication.
+- **[Beat_Lab](https://github.com/Alirezza1375/beat_lab)** — learning + creating drum beats (React, Tailwind).
+- **[Beat Machine (edit)](https://github.com/Alirezza1375/beat-machine)** — sequencer component (React).
+- **[Flask Auth](https://github.com/Alirezza1375/auth-system)** — Flask + SQLAlchemy authentication.
 
 > Pin these repos on your profile (instructions below) so they show front and center.
 
